@@ -245,6 +245,9 @@ header .socialmedia li a .fa {
 .navigation li:nth-child(n+2) {
   opacity: 0.3;
 }
+.works {
+  color: white;
+}
 .works-content {
   display: inline;
   width: 60.25280898876404%;
@@ -270,7 +273,7 @@ header .socialmedia li a .fa {
 }
 .content .works-nav a {
   text-decoration: none;
-  color: #000;
+  color: #fff;
   padding: 10px;
 }
 .content .works-nav a:hover {
@@ -288,6 +291,9 @@ header .socialmedia li a .fa {
   /* Masonry bricks or child elements */
 
   display: inline-block;
+}
+.meetourteam {
+  color:white;
 }
 .content .theteam {
   display: inline;
@@ -337,6 +343,9 @@ header .socialmedia li a .fa {
   text-transform: uppercase;
   font-size: 18px;
 }
+.discuss {
+  color: white;
+}
 .map {
   height: 215px;
   overflow: hidden;
@@ -369,8 +378,8 @@ header .socialmedia li a .fa {
   border: 0;
   outline: 0;
   background: transparent;
-  border-bottom: 2px solid black;
-  opacity: 0.2;
+  border-bottom: 2px solid white;
+  opacity: 0.8;
 }
 .socialmedia-vertical {
   width: 40px;
